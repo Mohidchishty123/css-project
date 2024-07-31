@@ -1,0 +1,1 @@
+This project is a basic implementation of an "Awesome Website" using HTML and CSS, featuring a clean, modern design with sections including a header, hero section, information boxes, an inspiring quote, a call-to-action, and a footer. It showcases how to structure and style a webpage for a visually appealing layout.
